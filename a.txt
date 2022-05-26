@@ -15,5 +15,5 @@ touch           => auxilia na criação de arquivos " touch a.txt "
 rm              => remove arquivos " rm a.txt "
 
 git status
-git add . 
+git add . adiciona o aquivo
 git commit -m "comentario"
