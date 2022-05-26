@@ -1,3 +1,5 @@
+curso de github
+
 configurando o name e email
 
 git config --global user.name "marcelo"
@@ -15,5 +17,6 @@ touch           => auxilia na criação de arquivos " touch a.txt "
 rm              => remove arquivos " rm a.txt "
 
 git status
-git add . adiciona o aquivo
+git add . 
 git commit -m "comentario"
+git log   
