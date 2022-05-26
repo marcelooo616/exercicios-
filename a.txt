@@ -1,0 +1,19 @@
+configurando o name e email
+
+git config --global user.name "marcelo"
+git config --global user.email "marcelooo2014@hotmail.com"
+
+comando para ver se esta configurado 
+git config user.name
+git config user.email
+
+git config list => traz as configurações do seu git 
+
+ls              => mostas as pastas
+mkdir           => cria uma pasta
+touch           => auxilia na criação de arquivos " touch a.txt "
+rm              => remove arquivos " rm a.txt "
+
+git status
+git add . 
+git commit -m "comentario"
