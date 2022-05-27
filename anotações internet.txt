@@ -1,0 +1,26 @@
+27/05  introdução a ciencia da computação
+
+- explicar as noções basicas ao funcionamento da internet
+- explicar a diferença entre cliente e servidor
+- explicar o protocolo tcp/ip de froma basica
+- exlicar o protocolo http
+- explicar e utilizar os metodos http get/post/put/delete
+- usar as ferramentas de um desenvolvedor
+- descrever a diferena de um site e uma aplicação web
+
+
+o que e a internet? 
+
+Basicamente, a internet é uma rede de conexões globais
+que permite o compartilhamento      
+instantâneo de dados entre dispositivos 
+esse sistema utiliza os protololos TCP/IP e HTTP
+
+internet => international + rede internacional
+
+
+a internet esta relacionada a parte fisica
+que faz essa comunicação entre 
+dispositivos ( cabos,postes,roteadores,celulares,notebooks,pc's )
+
+web => www. seria a parte logica multimidia, hipermidia
