@@ -24,3 +24,39 @@ que faz essa comunicação entre
 dispositivos ( cabos,postes,roteadores,celulares,notebooks,pc's )
 
 web => www. seria a parte logica multimidia, hipermidia
+
+o que são protocolos 
+
+protocolo tcp/ip
+
+o tcp/ip e um conjunto de protocolos de comunicação
+
+o modelo TCP/IP possui 4 camadar
+
+Aplicação  => HTTP
+Transporte => TCP
+Internet   => IP
+Rede       => MAC
+
+tcp transporte de dados
+htttp faz com que tudo funcione
+
+pacote => e o formato no qual os dados sao enviados
+do serevidor para  cliente.
+
+
+PORTAS => A camada de transporte utiliza portas 
+logicas para garantir que a aplicação que iniciou a 
+conversação encontrara no seu destino a aplicação deseja
+
+o HTTP utiliza as portas 8080 localmente, ou seja , 
+no seu computador e a porta 80 internet
+
+portas => 8080-spring
+          80 - www
+          3306 - MySql
+          4200 - Angular
+          3000 - React
+
+
+
