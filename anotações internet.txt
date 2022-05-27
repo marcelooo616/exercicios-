@@ -58,5 +58,9 @@ portas => 8080-spring
           4200 - Angular
           3000 - React
 
+links uteis 
+https://www.youtube.com/watch?v=Iqcp3k8DgGw
+https://www.youtube.com/watch?v=8O9flFlLwWQ&t=248s
+
 
 
