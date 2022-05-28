@@ -10,19 +10,25 @@ programa
 	     escreva("=====================\n")
 	    
 	     real matematica, fisica, quimica, quantidadedematerias
-	      
-          quantidadedematerias = 3
-	     matematica = 5
-	     fisica = 5
-	     quimica = 5
+	     escreva (" Digite as notas a baixo:")
+	     escreva ("\n Matematica:")
+	     leia(matematica)
+	     escreva (" Fisica:")
+	     leia(fisica)
+	     escreva (" Quimica:")
+	     leia(quimica) 
+        //  quantidadedematerias = 3
+	    // matematica = 5
+	    // fisica = 5
+	     //quimica = 5
 
           real total = matematica + fisica + quimica
           real mediaaluno = total / 3  
-          escreva ("Matematica: " + matematica + "\n")
-          escreva ("Fisica:     " + fisica  + "\n")
-          escreva ("Quimica:    " + quimica  + "\n") 
-          escreva ("===================== \n")       
-		escreva ("O valor da media e : " + mediaaluno + "\n")
+         // escreva ("Matematica: " + matematica + "\n")
+         // escreva ("Fisica:     " + fisica  + "\n")
+         // escreva ("Quimica:    " + quimica  + "\n") 
+          escreva ("====================== \n")       
+		escreva ("A media do aluno e: " + mediaaluno + "\n")
 		
 		
 	}
@@ -32,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 475; 
+ * @POSICAO-CURSOR = 860; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
