@@ -23,15 +23,16 @@ programa
           //calculando a media
           media = (nota1 + nota2) / 2
           //adicionando uma laço condicional
-          escreva (" "+ nomealuno +":: " + ano + "::" + sala + "::" )
+          escreva("::::::::::::::::::::::::::::::::::::::::::::::::")
+          escreva ("\n "+ nomealuno +"::" + ano + "::" + sala + "::" )
           se (media >= 6.0){
-          	escreva ("\n Aluno aprovado!!" + "\n Media :" + media) 
+          	escreva ("\n ((((Aluno aprovado!!))))" + "\n Media :" + media) 
           }
-          senao se (media >=3.0 e media
-          < 6.0){
-          	escreva("\n Aluno em recuperação" +"\n" media)
+          senao se (media >=3.0 e media< 6.0){
+          	escreva(" ((((Aluno em recuperação))))" +"\n" + media)
           	} 
-          senao { escreva (" Aluno reprovado!!" + "\n Media:"+media)}
+          senao { escreva ("((((Aluno reprovado!!))))" + "\n Media:"+ media)
+          }
           
           
           //mostrando o resultado da media na tela
@@ -43,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 331; 
+ * @POSICAO-CURSOR = 723; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
