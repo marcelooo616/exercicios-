@@ -1,0 +1,12 @@
+aolgoritimo 
+e uma sequencia de passos para executar
+uma função
+
+tres processos basicos
+=> entrada de dados
+   toda ves que o usuari prence qualquer infomação em um site 
+=> processamento
+    verificar se a senha e login estao corretas  
+=> saida
+
+O que é um servidor FTP? Diferente do protocolo FTP, que tem como principal missão transportar arquivos com mais segurança, o servidor FTP é um espaço virtual. Portanto, ele é administrado por um programa instalado no computador, ou, é fornecido pelo seu servidor de hospedagem.
