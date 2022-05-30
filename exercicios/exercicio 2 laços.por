@@ -7,7 +7,7 @@ programa
        escreva ("\n calcular salario::::::::")
        escreva ("\n:::::::::::::::::::::::::")
 
-       real matricula, horas, C ,S,E,horaextra,total
+       real matricula, horas, C ,S,E,horaextra,total,Y
 
       escreva ("\n Digite o numero de matricula : ")
       leia(matricula)
@@ -16,13 +16,15 @@ programa
       
       S = horas * 10
       se (horas <= 50){
-      	escreva ("voce trabalhou"+" " + horas +"h" + " esta semana seu salario e: " + S)
+      	Y = 0
+      	escreva (" você trabalhou"+" " + horas +"h" + " está semana seu salario é: " + S)
+      	escreva ("\n Total horas extras: "+ Y +"h")
       	}senao{
       		E = horas - 50
       		horaextra = E * 20
       		total = horaextra + 500
       		escreva (" Total horas extras: "+ E +"h")
-      		escreva ("\n O seu salario sofreu um reajuste ")
+      		escreva ("\n (((((O seu salario sofreu um reajuste)))) ")
       		escreva ("\n salario " + total)
       		}
 
@@ -47,7 +49,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 176; 
+ * @POSICAO-CURSOR = 802; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
