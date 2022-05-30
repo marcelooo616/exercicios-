@@ -10,7 +10,7 @@ programa
 		escreva("Digite a idade: ")
           leia(idade)
 			
-		se(idade >= 5 e idade <= 7){
+		se(idade >= 5 e idade <=  7){
 			escreva (nome +" infantil A")
 			}
 	     senao se(idade >= 8 e idade <= 11){
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 210; 
+ * @POSICAO-CURSOR = 211; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
