@@ -2,20 +2,16 @@ programa
 {
 	
 	funcao inicio()
-	{    
+	{    
 	real numero ,soma = 0, media = 0, contador = 0
-		escreva("digite um valor positivo")
+		escreva("Digite um valor positivo: ")
 		leia (numero)
-		
-          
          
-
-          
 		enquanto (numero >= 0){
 
                soma += numero
 			
-			escreva(" digite um valor positivo")
+			escreva(" Digite um valor positivo: ")
 		     leia (numero)
 		     
 		     contador++
@@ -24,13 +20,10 @@ programa
 
 		     se (numero < 0 ){
 		     	escreva(" OPS ESSE NUMERO E NEGATIVO" + "\n VOLTE DUAS CASAS")
-		     	}		     }
-
-
-
-		     
-		     escreva("\n resultado da soma: " + soma)
-		     escreva("\n resultado da media: " + media)
+		     	}		    
+     }	     
+		     escreva("\n resultado da soma: " + "(("+soma+"))")
+		     escreva("\n resultado da media: " + "(("+media+"))")
 
 
 	
@@ -41,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 554; 
+ * @POSICAO-CURSOR = 301; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
